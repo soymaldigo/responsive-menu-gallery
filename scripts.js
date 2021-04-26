@@ -8,6 +8,4 @@ $(document).ready(function () {
         $('#site-main').toggleClass('site-main');
     });
 
-
-
 });
